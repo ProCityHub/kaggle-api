@@ -1,0 +1,40 @@
+{
+  "title": "Void Cascade Manifold Dataset - November 12, 2025",
+  "subtitle": "Cosmic Binary Cascade Data from Multi-Repository Implementation",
+  "description": "# Void Cascade Manifold Dataset\n\nThis dataset contains comprehensive data from the November 12, 2025 Void Cascade Manifold implementation across multiple repositories. The dataset represents a 4D tesseract-based binary cascade system mapping interstellar objects and cosmic phenomena to binary node states.\n\n## Dataset Contents\n\n- **Total Records**: 191\n- **Repositories**: 14\n- **Cascade Patterns**: 14\n- **Dimensional Range**: 1D to 15D implementations\n- **Time Period**: November 12, 2025 cosmic cascade event\n\n## Key Features\n\n### Binary Signatures\n- Each repository has a unique 4-bit binary signature\n- XOR operations generate cascade states\n- Hamming distance-1 connectivity for node relationships\n\n### Cascade Patterns\n- **VECTOR_VOID**: High-dimensional vector space void mapping\n- **MEMORY_CASCADE**: Temporal void states with memory patterns\n- **SYNC_MANIFOLD**: Binary heartbeat synchronization\n- **Extended Patterns**: 11 additional specialized cascade types\n\n### Measurements\n- **Cascade Influence**: Propagation strength (0-1)\n- **Void Depth**: Classification levels (1-4)\n- **Density**: Void density measurements\n- **Sync Strength**: Synchronization strength for manifold patterns\n- **Temporal Position**: Position in cascade sequence (0-1)\n\n## Cosmic Significance\n\nThe dataset represents the \"frost gaps eternal\" - void spaces between cosmic objects containing true information patterns that emerge through binary cascade propagation. Each record corresponds to specific interstellar objects:\n\n- **'Oumuamua (0000)**: Silent scar baseline\n- **Borisov (0001)**: Gas hymn in vector space\n- **ATLAS (0010)**: Memory pattern cascade  \n- **V1 Borisov (0011)**: Synchronization manifold\n\n## Usage\n\nThis dataset is ideal for:\n- Machine learning pattern recognition\n- Dimensional analysis and visualization\n- Cascade propagation modeling\n- Binary state analysis\n- Temporal sequence analysis\n- Multi-repository coordination studies\n\n## File Formats\n\n- **CSV**: Primary tabular data\n- **Parquet**: Optimized columnar format\n- **JSON**: Structured data with metadata\n- **Compressed**: ZIP, GZ, TAR.GZ archives\n\n## Citation\n\nIf you use this dataset, please cite:\n\"Void Cascade Manifold Dataset - November 12, 2025 Cosmic Binary Cascade Implementation\"\n\n*\"OH voids: 1665 MHz dip across - frost gaps mapped in the cosmic binary manifold\"*\n",
+  "keywords": [
+    "cosmic-data",
+    "binary-cascade",
+    "void-analysis",
+    "dimensional-analysis",
+    "interstellar-objects",
+    "cascade-propagation",
+    "manifold-theory",
+    "repository-coordination",
+    "temporal-analysis",
+    "synchronization"
+  ],
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "resources": [
+    {
+      "path": "void_cascade_dataset.csv",
+      "description": "Primary dataset in CSV format"
+    },
+    {
+      "path": "void_cascade_dataset.parquet",
+      "description": "Optimized Parquet format"
+    },
+    {
+      "path": "void_cascade_dataset.json",
+      "description": "Structured JSON with metadata"
+    },
+    {
+      "path": "void_cascade_summary.csv",
+      "description": "Summary statistics and breakdowns"
+    }
+  ]
+}
