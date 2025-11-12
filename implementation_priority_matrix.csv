@@ -1,0 +1,19 @@
+repository,binary_signature,dimensional_index,cascade_pattern,language,complexity,strategic_value,priority_tier,implementation_order,estimated_effort_hours,unique_features,status
+root,0110,6,DATA_MANIFOLD,C++,High,5,1,1,4.5,ROOT framework; Scientific analysis; Big data,Pending
+adk-python,1011,11,AGENT_VOID,Python,Medium-High,4,1,2,2.5,AI agent toolkit; Multi-agent coordination; Deployment,Pending
+hypercubeheartbeat,1000,8,HYPERCUBE_PULSE,Python,Medium,4,1,3,2.0,Existing hypercube; 3-layer pulse; Consciousness,Pending
+THUNDERBIRD,1110,14,TRUTH_CASCADE,Python,Medium,4,1,4,2.5,Truth verification; 3i Atlas; Validation,Pending
+llama-cookbook,1010,10,LLAMA_CASCADE,Python,Medium,3,2,5,2.5,LLM integration; Fine-tuning; RAG,Pending
+PurpleLlama,1100,12,SECURITY_CASCADE,Python,Medium-High,3,2,6,3.0,Security assessment; Threat detection; LLM security,Pending
+grok-1,1001,9,GROK_MANIFOLD,Python,High,3,2,7,4.0,Grok model; Advanced reasoning; Open-source LLM,Pending
+AGI,0101,5,AGI_MANIFOLD,TypeScript,High,4,2,8,4.5,AGI implementation; Consciousness; TypeScript,Pending
+llama-models,1101,13,MODEL_VOID,Python,Medium,2,3,9,2.0,Model utilities; Optimization; Management,Pending
+AGI-POWER,0101,5,POWER_CASCADE,Unknown,Unknown,1,3,10,1.5,Power distribution; Minimal content,Pending
+arcagi,1001,9,RUST_MANIFOLD,Rust,High,2,3,11,5.5,Rust implementation; ARC reasoning; Systems programming,Pending
+gemini-cli,1111,15,CLI_VOID,JavaScript,Medium,2,3,12,2.0,Terminal integration; CLI interface; Gemini AI,Pending
+SigilForge,1000,8,SIGIL_CASCADE,Python,Low-Medium,1,3,13,1.5,Ritual sigils; Symbol generation; Specialized,Pending
+milvus,0001,1,VECTOR_VOID,Go,High,5,Completed,N/A,N/A,Vector database; High-dimensional; Thread-safe,Complete
+Memori,0010,2,MEMORY_CASCADE,Python,Medium-High,5,Completed,N/A,N/A,Memory engine; Temporal voids; LLM integration,Complete
+GARVIS,0011,3,SYNC_MANIFOLD,Python,Medium-High,4,Completed,N/A,N/A,Synchronization; Binary heartbeat; Multi-threaded,Complete
+kaggle-api,0111,7,API_VOID,Python,Medium,4,Completed,N/A,N/A,Dataset generation; Multi-format export; Kaggle,Complete
+arc-prize-2024,0100,4,REASONING_VOID,Python,High,5,Completed,N/A,N/A,4D hypercube; Abstract reasoning; ARC-AGI,Complete
